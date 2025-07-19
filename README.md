@@ -5,9 +5,15 @@ A modern personal portfolio site built with **React** and **Tailwind CSS** on th
 ## 📁 Project Structure
 
 personal-portfolio/
-├── client/ # React + Tailwind frontend
-└── server/ # Express backend
-
+├── client/
+│   ├── build/
+│   ├── public/
+│   └── src/
+└── server/
+    ├── node_modules/
+    ├── index.js
+    ├── package.json
+    └── package-lock.json
 
 ---
 
