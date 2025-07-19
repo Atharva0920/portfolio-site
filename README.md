@@ -8,8 +8,13 @@ A modern personal portfolio site built with **React** and **Tailwind CSS** on th
 personal-portfolio/
 ├── client/
 │   ├── build/
+|   ├── node_modules/
 │   ├── public/
-│   └── src/
+│   ├── src/
+|   ├── package.json
+|   ├── package-lock.json
+|   ├── postcss.config
+|   └── tailwind.config
 └── server/
     ├── node_modules/
     ├── index.js
