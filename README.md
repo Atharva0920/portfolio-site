@@ -4,6 +4,7 @@ A modern personal portfolio site built with **React** and **Tailwind CSS** on th
 
 ## 📁 Project Structure
 
+```text
 personal-portfolio/
 ├── client/
 │   ├── build/
@@ -14,7 +15,7 @@ personal-portfolio/
     ├── index.js
     ├── package.json
     └── package-lock.json
-
+```
 ---
 
 ## 🚀 Tech Stack
